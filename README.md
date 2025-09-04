@@ -11,5 +11,5 @@
  - Correlate GEDI canopy height with ESA biomass data.
  - Build ML model for height–biomass relationships.
 
-### Output: 
+### Output
     - Height-biomass maps + ML model accuracy assessment.
