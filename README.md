@@ -7,9 +7,10 @@
 ### Data Sources:
  - GEDI LiDAR canopy height (NASA)
  - Global Biomass dataset (ESA CCI)
+
 ### Methods:
  - Correlate GEDI canopy height with ESA biomass data.
  - Build ML model for height–biomass relationships.
 
 ### Output
-    - Height-biomass maps + ML model accuracy assessment.
+- Height-biomass maps + ML model accuracy assessment.
