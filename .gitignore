@@ -1,0 +1,6 @@
+# ignore the Raw datafiles
+/CEDA
+/GEDI
+
+# Ignore the csv files too
+*.csv
