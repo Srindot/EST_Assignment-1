@@ -86,14 +86,14 @@ A **Simple Linear Regression** model was implemented using the `scikit-learn` li
 ### **4.0 Results**
 
 ### Plots
-![image](Pasted image 20250913031049.png)
-![image](canopy_height_distribution.png)
+![image](images/Pasted image 20250913031049.png)
+![image](images/canopy_height_distribution.png)
 
-![image](canopy_height_map.png)
+![image](images/canopy_height_map.png)
 
-![image](canopy_vs_biomass_correlation.png)
+![image](images/canopy_vs_biomass_correlation.png)
 
-![image](biomass_distribution_map.png)
+![image](images/biomass_distribution_map.png)
 
 
 
