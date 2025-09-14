@@ -4,3 +4,6 @@
 
 # Ignore the csv files too
 *.csv
+
+# Ignore 
+scam.py
